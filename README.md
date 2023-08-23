@@ -1,2 +1,2 @@
-# coinonetrading
+# coinone trading
 trade code
